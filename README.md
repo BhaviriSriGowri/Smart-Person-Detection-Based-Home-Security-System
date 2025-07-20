@@ -10,7 +10,7 @@ A robust, real-time home security solution using AI and computer vision. This sy
 
 
 
-\## 🔍 Table of Contents
+## 🔍 Table of Contents
 
 
 
@@ -34,7 +34,7 @@ A robust, real-time home security solution using AI and computer vision. This sy
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
@@ -54,7 +54,7 @@ A robust, real-time home security solution using AI and computer vision. This sy
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -96,7 +96,7 @@ Smart-Person-Detection-Based-Home-Security-System/
 
 
 
-\## 📦 Installation
+## 📦 Installation
 
 
 
@@ -158,7 +158,7 @@ Smart-Person-Detection-Based-Home-Security-System/
 
 
 
-\## ⚙️ Configuration
+## ⚙️ Configuration
 
 
 
@@ -196,7 +196,7 @@ Smart-Person-Detection-Based-Home-Security-System/
 
 
 
-\## ▶️ Usage
+## ▶️ Usage
 
 
 
@@ -222,7 +222,7 @@ python person.py
 
 
 
-\### Quit
+## Quit
 
 
 
@@ -234,7 +234,7 @@ python person.py
 
 
 
-\## 📊 Logs \& Outputs
+## 📊 Logs \& Outputs
 
 
 
@@ -258,11 +258,11 @@ python person.py
 
 
 
-\## 💻 GitHub Commands
+## 💻 GitHub Commands
 
 
 
-\### After creating or modifying files:
+### After creating or modifying files:
 
 
 
@@ -278,7 +278,7 @@ git push origin main  # or 'master' depending on your branch name
 
 
 
-\### Clone the repo (in a new machine or setup):
+### Clone the repo (in a new machine or setup):
 
 
 
@@ -292,7 +292,7 @@ cd Smart-Person-Detection-Based-Home-Security-System
 
 
 
-\### Run project again:
+### Run project again:
 
 
 
