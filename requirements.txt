@@ -2,3 +2,6 @@ ultralytics==8.2.14
 opencv-python==4.9.0.80
 numpy==1.23.5
 pillow==10.2.0
+setuptools>=65.0.0
+wheel
+build
