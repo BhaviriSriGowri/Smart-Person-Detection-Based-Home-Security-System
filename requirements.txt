@@ -5,3 +5,4 @@ pillow==10.2.0
 setuptools>=65.0.0
 wheel
 build
+setuptools>=42
