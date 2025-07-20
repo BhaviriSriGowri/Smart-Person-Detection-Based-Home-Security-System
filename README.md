@@ -1,4 +1,4 @@
-\# Smart Person Detection-Based Home Security System
+# Smart Person Detection-Based Home Security System
 
 
 
